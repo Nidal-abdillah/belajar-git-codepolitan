@@ -10,11 +10,11 @@ let subtract = (a, b) => {
 
 console.log(subtract(1, 2));
 
-let multiply = (a, b) => {
+let perkalian = (a, b) => {
   return a * b;
 };
 
-console.log(multiply(10, 2));
+console.log(perkalian(10, 2));
 
 let divide = (a, b) => {
   return a / b;
