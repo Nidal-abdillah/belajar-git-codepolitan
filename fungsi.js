@@ -27,3 +27,8 @@ let luasLingkaran = (r) => {
   return phi * r * r;
 };
 console.log(luasLingkaran(7));
+
+const luaspersegipanjang = (p, l) => {
+  return p * l;
+};
+console.log(luaspersegipanjang(10, 5));
