@@ -21,3 +21,9 @@ let divide = (a, b) => {
 };
 
 console.log(divide(10, 2));
+
+const phi = 3.14;
+let luasLingkaran = (r) => {
+  return phi * r * r;
+};
+console.log(luasLingkaran(7));
